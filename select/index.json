@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "meaning",
+  "base_artist": "Rol3ert",
+  "createdAt": "2026-01-13T22:31:04.525468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Meaning of Soul",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_The_Meaning_of_Soul_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Meaning",
+      "artist": "Cascadeur",
+      "has_synced": true,
+      "path": "select/02_Meaning_Cascadeur.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Different Meaning",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/03_Different_Meaning_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Meaning of the Word",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/04_Meaning_of_the_Word_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Deeper Meaning",
+      "artist": "Culture Beat",
+      "has_synced": false,
+      "path": "select/05_No_Deeper_Meaning_Culture_Beat.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Meaning of Love",
+      "artist": "Marsheaux",
+      "has_synced": true,
+      "path": "select/06_The_Meaning_of_Love_Marsheaux.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Meaning Of Love",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/07_The_Meaning_Of_Love_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kno The Meaning",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/08_Kno_The_Meaning_Future.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "meaning",
+      "artist": "Rol3ert",
+      "has_synced": false,
+      "path": "select/pl_01_meaning_Rol3ert.txt"
+    }
+  ]
+}
